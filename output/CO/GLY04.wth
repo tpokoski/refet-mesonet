@@ -1,11 +1,11 @@
 ************************************************************************
 pyfao56: FAO-56 Evapotranspiration in Python
 Weather Data
-Timestamp: 01/13/2025 13:20:09
+Timestamp: 01/13/2025 13:56:04
 ************************************************************************
 Comments: 
 ************************************************************************
-           S Reference crop - Short ('S') or Tall ('T')
+           T Reference crop - Short ('S') or Tall ('T')
          nan Weather station elevation (z) (m)
          nan Weather station latitude (decimal degrees)
          nan Wind speed measurement height (m)
